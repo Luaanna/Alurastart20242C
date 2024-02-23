@@ -1,0 +1,15 @@
+header{ 
+  background-color: black;
+  color: azure;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho{
+background-color: black;
+display: flex;
+}
+.cabecalho-lista-item{
+
+}
